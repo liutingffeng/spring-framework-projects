@@ -1,0 +1,4 @@
+configuration.e_enablejdbc.anno.EnableJdbc=\
+  configuration.e_enablejdbc.config.OracleJdbcConfiguration,\
+  configuration.e_enablejdbc.config.H2JdbcConfiguration,\
+  configuration.e_enablejdbc.config.MySQLJdbcConfiguration
